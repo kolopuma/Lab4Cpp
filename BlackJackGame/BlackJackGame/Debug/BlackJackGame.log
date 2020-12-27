@@ -1,0 +1,7 @@
+﻿  BlackJackGame.cpp
+  Game.cpp
+C:\Users\Максим\source\repos\BlackJackGame\BlackJackGame\Game.cpp(27,16): warning C4154: удаление массива; выполнено преобразование к указателю
+  Player.cpp
+  Создание кода...
+C:\Users\Максим\source\repos\BlackJackGame\BlackJackGame\Game.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  BlackJackGame.vcxproj -> C:\Users\Максим\source\repos\BlackJackGame\Debug\BlackJackGame.exe
